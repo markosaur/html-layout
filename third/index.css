@@ -1,0 +1,71 @@
+body{
+    height: 100vh;
+    max-width: 100%;
+    margin: 0;
+}
+
+header{
+    width:100vw;
+    height:15%;
+    background-color: #D8D8D8;
+    padding-top: 10px;
+    padding-left: 10px;
+    /* margin-bottom: 10px; */
+    /* header has a built in margin that was messing with the yellow box so I put margin 0 in the body */
+}
+
+.divTwo{
+    width: 100%;
+    height: 25%;
+    background-color: #FFFFFF;
+    font-size: 20px;
+    text-align: left;
+    padding: 5px;
+    /* float: left; */
+    /* margin-bottom: 10px; */
+}
+
+.divThree{
+    width: 100vw;
+    height:15%;
+    background-color: #4A90E2;
+    /* float: right; */
+    /* margin-bottom: 10px */
+    
+}
+
+.divFour{
+    width: 100vw;
+    height:15%;;
+    background-color: #50E3C2;
+    background-color: ;
+    /* float: right; */
+    /* margin-bottom: 10px; */
+}
+
+.divFive{
+    width: 100vw;
+    height:15%;
+    background-color: #B8E986;
+    background-color: ;
+    /* float: right; */
+    /* margin-bottom: 10px; */
+}
+
+footer{
+    width: 100vw;
+    height:15%;
+    background-color: #F8E71C;
+    clear: both;
+    margin-top: px;
+}
+
+/* box sizing border box whatever size I specifiy for this element, it must stay that size with border and padding */
+
+
+.box-1{
+    height: 100px;
+    width: 100px;
+    background-color: #4A90E2;
+
+}
